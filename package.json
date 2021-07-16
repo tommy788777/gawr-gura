@@ -1,0 +1,15 @@
+{
+  "name": "kkkk",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kkk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tommy",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.1"
+  }
+}
